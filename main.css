@@ -91,6 +91,7 @@ footer.footer-dark hr { display: none; }
   font-family: 'Sanchez';
 }
 
+.alert.alert-info,
 .alert.alert-warning,
 .alert.alert-success {
   background-color: #f9bf3d;
@@ -107,7 +108,8 @@ footer.footer-dark hr { display: none; }
 
 .az-multiple-winners,
 .az-multiple-winners i,
-.az-quantity {
+.az-quantity,
+.az-quantity p {
   font-family: 'Sanchez', sans-serif;
   font-style: normal;
 }
