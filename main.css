@@ -10,6 +10,10 @@ h2 {
   font-size: 24px;
 }
 
-.collapse .navbar-collapse {
-  background-color:
+h1, h2 {
+  color: #d1c060;
+}
+
+.navbar-default {
+  background-color: #f9bf3d;
 }
