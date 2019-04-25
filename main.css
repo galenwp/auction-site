@@ -124,9 +124,9 @@ footer.footer-dark hr { display: none; }
   font-style: normal;
 }
 
-.bs-callout.bs-callout-top.bs-callout-info {
+/* .bs-callout.bs-callout-top.bs-callout-info {
   display: none;
-}
+} */
 
 div[data-az-role="multistage-buttons-row"] {
   background-color: transparent !important;
