@@ -62,6 +62,7 @@ a:focus,
 footer.footer-dark {
   background-color: transparent;
   color: #555;
+  margin-top: 14rem;
 }
 
 footer.footer-dark hr { display: none; }
@@ -98,4 +99,8 @@ footer.footer-dark hr { display: none; }
 .az-quantity {
   font-family: 'Sanchez', sans-serif;
   font-style: normal;
+}
+
+div[data-az-role="multistage-buttons-row"] {
+  background-color: transparent !important;
 }
