@@ -33,6 +33,14 @@ a:hover,
   padding-left: 8px !important;
 }
 
+.thumbnail {
+  border: 0;
+}
+
+.thumbnail a:hover {
+  color: #000;
+}
+
 .thumbnail .center-block {
   margin-left: 8px;
 }
@@ -40,6 +48,7 @@ a:hover,
 .btn.btn-xs.btn-danger {
   background-color: #f9bf3d;
   padding: 12px;
+  border: 0;
   border-radius: 0;
   font-weight: bold;
   font-size: 1.6rem;
