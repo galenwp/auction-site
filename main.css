@@ -53,3 +53,10 @@ a:hover,
   font-weight: bold;
   font-size: 1.6rem;
 }
+
+.footer-dark {
+  background-color: transparent;
+  color: #555;
+}
+
+.footer-dark hr { display: none; }
