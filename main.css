@@ -100,6 +100,7 @@ footer.footer-dark hr { display: none; }
 .alert.alert-success {
   background-color: #f9bf3d;
   border: 0;
+  color: #ccc;
 }
 
 .alert.alert-success {
