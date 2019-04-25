@@ -54,9 +54,9 @@ a:hover,
   font-size: 1.6rem;
 }
 
-.footer-dark {
+footer.footer-dark {
   background-color: transparent;
   color: #555;
 }
 
-.footer-dark hr { display: none; }
+footer.footer-dark hr { display: none; }
