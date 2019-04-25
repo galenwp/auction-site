@@ -32,3 +32,15 @@ a:hover,
   text-align: left !important;
   padding-left: 8px !important;
 }
+
+.thumbnail .center-block {
+  margin-left: 8px;
+}
+
+.btn.btn-xs.btn-danger {
+  background-color: #f9bf3d;
+  padding: 12px;
+  border-radius: 0;
+  font-weight: bold;
+  font-size: 1.6rem;
+}
