@@ -22,7 +22,13 @@ a {
 
 .navbar-default { background-color: #d2bf60; }
 
+a:hover,
 .navbar-nav>li>a:hover,
 .navbar-nav>li>a:focus {
   color: #555;
+}
+
+.thumbnail h4 {
+  text-align: left !important;
+  padding-left: 8px !important;
 }
