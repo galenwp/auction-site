@@ -82,3 +82,13 @@ footer.footer-dark hr { display: none; }
 .alert-info.az-donation p {
   font-family: 'Sanchez';
 }
+
+.alert.alert-success {
+  background-color: #f9bf3d;
+  border-color: #f9bf3d;
+  color: #555;
+}
+
+.alert.alert-success a {
+  text-decoration: underline;
+}
