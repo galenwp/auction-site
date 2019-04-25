@@ -92,3 +92,10 @@ footer.footer-dark hr { display: none; }
 .alert.alert-success a {
   text-decoration: underline;
 }
+
+.az-multiple-winners,
+.az-multiple-winners i,
+.az-quantity {
+  font-family: 'Sanchez', sans-serif;
+  font-style: normal;
+}
