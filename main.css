@@ -51,6 +51,8 @@ a:focus,
 
 .thumbnail {
   border: 0;
+  margin-bottom: 0;
+  margin-top: 64px;
 }
 
 .thumbnail a:hover {
@@ -123,10 +125,6 @@ footer.footer-dark hr { display: none; }
   font-family: 'Sanchez', sans-serif;
   font-style: normal;
 }
-
-/* .bs-callout.bs-callout-top.bs-callout-info {
-  display: none;
-} */
 
 div[data-az-role="multistage-buttons-row"] {
   background-color: transparent !important;
