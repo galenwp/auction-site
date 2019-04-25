@@ -103,6 +103,10 @@ footer.footer-dark hr { display: none; }
   color: #555;
 }
 
+.alert-success hr {
+  border-top-color: inherit;
+}
+
 .alert.alert-success {
   border-color: #f9bf3d;
   color: #555;
